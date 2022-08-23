@@ -28,15 +28,15 @@ require (
 	github.com/michaelquigley/pfxlog v0.6.9
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/openziti/channel v0.18.48
-	github.com/openziti/foundation/v2 v2.0.1
-	github.com/openziti/identity v1.0.1
+	github.com/openziti/foundation/v2 v2.0.2
+	github.com/openziti/identity v1.0.7
 	github.com/openziti/metrics v1.0.2
 	github.com/openziti/storage v0.1.14
 	github.com/openziti/transport/v2 v2.0.12
 	github.com/openziti/xweb/v2 v2.0.1
 	github.com/orcaman/concurrent-map/v2 v2.0.0
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.0
 	github.com/teris-io/shortid v0.0.0-20201117134242-e59966efd125
@@ -84,7 +84,7 @@ require (
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	go.mongodb.org/mongo-driver v1.8.3 // indirect
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
-	golang.org/x/sys v0.0.0-20220627191245-f75cf1eec38b // indirect
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
